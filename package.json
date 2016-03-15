@@ -1,0 +1,19 @@
+{
+  "name": "node-dataguru-project",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plusse7en/Study.git"
+  },
+  "author": "Plusseven Wang <jackwangjiaqi@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/plusse7en/Study/issues"
+  },
+  "homepage": "https://github.com/plusse7en/Study#readme"
+}
